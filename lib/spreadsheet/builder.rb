@@ -1,3 +1,4 @@
+# Encoding: UTF-8
 require 'zipruby'
 
 module Spreadsheet
